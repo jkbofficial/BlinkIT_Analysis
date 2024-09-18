@@ -25,3 +25,5 @@ Visualizes sales trends for products categorized by fat content(low-fat vs regul
 ***Tools:***
 
 1.Power BI for dynamic data visualization and dashboard creation.
+
+This repository contains dataet, Power BI Dashboard and various symbol images.
